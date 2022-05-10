@@ -1,0 +1,5 @@
+.places {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px,max-content));
+  padding: 0 148px;
+}
