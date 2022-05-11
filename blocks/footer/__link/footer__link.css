@@ -1,0 +1,20 @@
+.footer__link {
+  display: flex;
+  padding-right: 18px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 112%;
+  color: #fff;
+  align-content: left;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 459px) {
+  .footer__link {
+    font-size: 24px;
+    line-height: 100%;
+    padding-right: 0;
+    padding-bottom: 32px;
+  }
+}

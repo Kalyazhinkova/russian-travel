@@ -1,0 +1,9 @@
+.place__website_link {
+  margin: 0;
+  font-weight: 400px;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration: underline;
+  color: #FFFFFF;
+  text-align: left;
+}

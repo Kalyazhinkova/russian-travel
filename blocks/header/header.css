@@ -2,4 +2,12 @@
   padding: 28px 48px 0 48px;
   max-width: 1184px;
   display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 459px) {
+  .header {
+    padding: 16px 16px 0 16px;
+  }
 }

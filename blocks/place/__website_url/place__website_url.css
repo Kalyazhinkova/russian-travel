@@ -1,0 +1,9 @@
+.place__website_url {
+  margin: 0 0 12px 0;
+  font-weight: 400px;
+  font-size: 10px;
+  line-height: 140%;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
