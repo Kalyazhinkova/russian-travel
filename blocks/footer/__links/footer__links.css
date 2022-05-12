@@ -4,3 +4,10 @@
   display: flex;
   list-style: none;
 }
+
+@media screen and (max-width: 425px) {
+  .footer__links{
+    flex-direction: column;
+    align-content: space-between;
+  }
+}
