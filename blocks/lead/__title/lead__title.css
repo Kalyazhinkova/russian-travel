@@ -9,7 +9,7 @@
   color: #ffffff;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1024px) {
   .lead__title {
     margin: 48px auto 0 auto;
   }

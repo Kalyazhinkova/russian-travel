@@ -1,8 +1,11 @@
 .page {
-  background-color: #2A2C2F;
+  background-color: #2a2c2f;
   min-width: 320px;
   max-width: 1280px;
   padding: 0;
   margin: 0 auto;
   font-family: Inter, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }

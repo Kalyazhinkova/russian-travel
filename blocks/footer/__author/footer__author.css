@@ -11,6 +11,7 @@
 
 @media screen and (max-width: 459px) {
   .footer__author {
+    margin-top: 16px;
     line-height: 100%;
   }
 }
