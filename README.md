@@ -12,6 +12,7 @@
 * HTML
 * CSS
 * Адаптивная верстка
+* Flex
 * Grid Layout
 * БЭМ (Nested)
 #
